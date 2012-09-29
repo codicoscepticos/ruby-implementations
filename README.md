@@ -1,6 +1,2 @@
-ruby-implementations (Currently this is a work in progress)
-====================
-
-List of Ruby implemations.
-
-You can find the list in the wiki.
+You can find the list in the [Wiki](https://github.com/cogitator/ruby-implementations/wiki/List-of-Ruby-implementations).
+==================================
