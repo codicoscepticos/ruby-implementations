@@ -1,14 +1,14 @@
 # Active
 * [Ruby MRI](https://github.com/ruby/ruby) - Matz's Ruby Interpreter or Ruby MRI (also called CRuby) is the reference implementation of the Ruby programming language.
 * [TruffleRuby](https://github.com/oracle/truffleruby) - A high performance implementation. Built on the GraalVM by Oracle Labs.
-* [Rite/mruby](https://github.com/mruby/mruby) - mruby is the lightweight implementation of the Ruby language.
-* [Rubinius](https://github.com/rubinius/rubinius) - Rubinius is a modern language platform that supports a number of programming languages.
+* [JRuby](https://github.com/jruby/jruby) - The Ruby Programming Language on the JVM.
+* [mruby](https://github.com/mruby/mruby) - mruby is the lightweight implementation of the Ruby language.
 * [Opal](https://github.com/opal/opal#readme) - Opal is a Ruby to Javascript source-to-source compiler.
-* [Topaz](https://github.com/topazproject/topaz) - A high performance ruby, written in RPython
 * [goby](https://github.com/goby-lang/goby) - Goby is an object-oriented interpreter language deeply inspired by Ruby as well as its core implementation by 100% pure Go.
 * [GoRuby](https://github.com/goruby/goruby) - An implementation of Ruby written in Go.
 * [grubby](https://github.com/grubby/grubby) - Grubby is an experimental ruby written in Golang.
-* [JRuby](http://www.jruby.org/) - The Ruby Programming Language on the JVM.
+* [Rubinius](https://github.com/rubinius/rubinius) - Rubinius is a modern language platform that supports a number of programming languages.
+* [Topaz](https://github.com/topazproject/topaz) - A high performance ruby, written in RPython
 * [Ruby-LLVM](https://github.com/ruby-llvm/ruby-llvm) - Ruby-LLVM is a Ruby language binding to the LLVM compiler infrastructure library.
 * [erruby](https://github.com/johnlinvc/erruby) - ruby on erlang.
 
@@ -30,7 +30,7 @@
 * [ludicrous](http://rubystuff.org/ludicrous/) - Ludicrous is a just-in-time compiler for Ruby 1.8 and 1.9. Though still in the experimental stage, its performance is roughly on par with YARV (better in some benchmarks, though that may change as more features are added).
 * [Fructose](https://github.com/charliesome/Fructose) - A Ruby-like language that compiles to PHP.
 * [REE](http://www.rubyenterpriseedition.com/) - Ruby Enterprise Edition.
-  * [Kiji](https://github.com/twitter-forks/rubyenterpriseedition187-248) : Twitter's updates to Ruby Enterprise Edition, itself based on MRI 1.8.7-p248.
+  * [Kiji](https://github.com/twitter-forks/rubyenterpriseedition187-248) - Twitter's updates to Ruby Enterprise Edition, itself based on MRI 1.8.7-p248.
 * [Carbone](http://www.nongnu.org/carbone/) - Carbone  is a  vmgen based,  efficient virtual  machine for  Ruby. It targets compatibility, performance and portability.
 * [ByteCodeRuby](https://bitbucket.org/georgem/bytecoderuby) - A bytecode interpreter for Ruby.
 * [MagLev](http://maglev.github.com/) - MagLev is a fast, stable, 64-bit open source implementation of the Ruby programming language and libraries built on top of VMware’s GemStone/S 3.1 Virtual Machine.
