@@ -49,7 +49,7 @@
 * [jsruby](https://github.com/ysbaddaden/jsruby) - Ruby Virtual Machine using node.js.
 * [rbv8](https://github.com/macournoyer/rbv8) - A Ruby VM running on Google V8 super VM.
 * [8ball](https://github.com/mattknox/8ball) - a Ruby-to-Javascript source-to-source transformer.
-* [HotRuby](https://github.com/oneup/hotruby) - HotRuby is Ruby on JavaScript and Flash. HotRuby runs Ruby * source code on a web browser and Flash.
+* [HotRuby](https://github.com/oneup/hotruby) - HotRuby is Ruby on JavaScript and Flash. HotRuby runs Ruby source code on a web browser and Flash.
   * [hrwt](https://github.com/gimite/hrwt) - Ruby VM on JavaScript (based on HotRuby) + RPC.
 * [ColdRuby](https://github.com/whitequark/coldruby) - ColdRuby is a compiler of Ruby 1.9 MRI bytecode, and a runtime written in JavaScript to aid in execution of Ruby code.
 * [Red Sun](https://github.com/jonathanbranam/redsun) - Red Sun - Ruby to Flash compiler and framework.
