@@ -55,9 +55,9 @@
 * [Red Sun](https://github.com/jonathanbranam/redsun) - Red Sun - Ruby to Flash compiler and framework.
 * [emscripted-ruby](https://github.com/replit/emscripted-ruby) - Ruby 1.8.7 compiled to JavaScript.
 ### web archived
-* [Alumina](https://web.archive.org/web/20050418024635/http://www.alumina-vm.org:8080/AluminaWiki) - (web archive link, description unavailable)
-* [rb2js](https://web.archive.org/web/20161228094453/http://rb2js.rubyforge.org) - Ruby to JavaScript. (web archive link)
-  * [RubyJS](https://web.archive.org/web/20120604193530/http://www.ntecs.de:80/blog/articles/2007/01/08/rubyjs-javascript-no-thank-you/) - A successor to rb2js. (web archive link)
+* [Alumina](https://web.archive.org/web/20050418024635/http://www.alumina-vm.org:8080/AluminaWiki) - (description unavailable)
+* [rb2js](https://web.archive.org/web/20161228094453/http://rb2js.rubyforge.org) - Ruby to JavaScript.
+  * [RubyJS](https://web.archive.org/web/20120604193530/http://www.ntecs.de:80/blog/articles/2007/01/08/rubyjs-javascript-no-thank-you/) - A successor to rb2js.
 * [RubySharp](https://web.archive.org/web/20140626103826/http://www.rubyclr.com/) - A Ruby to CIL Compiler.
 ### r.i.p.
 Description and link unavailable:
