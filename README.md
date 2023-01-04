@@ -1,20 +1,29 @@
 # Active
+
+Ruby implementations:
+
 * [Ruby MRI](https://github.com/ruby/ruby) - Matz's Ruby Interpreter or Ruby MRI (also called CRuby) is the reference implementation of the Ruby programming language.
 * [TruffleRuby](https://github.com/oracle/truffleruby) - A high performance implementation. Built on the GraalVM by Oracle Labs.
 * [JRuby](https://github.com/jruby/jruby) - The Ruby Programming Language on the JVM.
 * [mruby](https://github.com/mruby/mruby) - mruby is the lightweight implementation of the Ruby language.
 * [Opal](https://github.com/opal/opal#readme) - Opal is a Ruby to Javascript source-to-source compiler.
-* [goby](https://github.com/goby-lang/goby) - Goby is an object-oriented interpreter language deeply inspired by Ruby as well as its core implementation by 100% pure Go.
 * [GoRuby](https://github.com/goruby/goruby) - An implementation of Ruby written in Go.
 * [grubby](https://github.com/grubby/grubby) - Grubby is an experimental ruby written in Golang.
 * [Rubinius](https://github.com/rubinius/rubinius) - Rubinius is a modern language platform that supports a number of programming languages.
 * [Topaz](https://github.com/topazproject/topaz) - A high performance ruby, written in RPython
 * [Ruby-LLVM](https://github.com/ruby-llvm/ruby-llvm) - Ruby-LLVM is a Ruby language binding to the LLVM compiler infrastructure library.
 * [erruby](https://github.com/johnlinvc/erruby) - ruby on erlang.
+* [Artichoke](https://www.artichokeruby.org/) - Bundle Ruby applications into a single WASM binary, Ruby implementation in Rust.
 
+Ruby-inspired languages:
+
+* [goby](https://github.com/goby-lang/goby) - Goby is an object-oriented interpreter language deeply inspired by Ruby as well as its core implementation by 100% pure Go.
+* [Crystal](https://crystal-lang.org/) - A typed and compiled language using Ruby-like syntax and allowing C-bindings.
 
 # Dead Projects
+
 ### links available
+
 * [MacRuby](http://macruby.org/) - MacRuby is an implementation of Ruby 1.9 directly on top of Mac OS X core technologies such as the Objective-C runtime and garbage collector, the LLVM compiler infrastructure and the Foundation and ICU frameworks.
 * [rubydium](https://github.com/lypanov/rubydium) - (description unavailable)
 * [ocelot](https://github.com/cout/ocelot) - Caleb Clausen's type-inducting ruby-to-c converter.
@@ -59,7 +68,9 @@
 * [rb2js](https://web.archive.org/web/20161228094453/http://rb2js.rubyforge.org) - Ruby to JavaScript.
   * [RubyJS](https://web.archive.org/web/20120604193530/http://www.ntecs.de:80/blog/articles/2007/01/08/rubyjs-javascript-no-thank-you/) - A successor to rb2js.
 * [RubySharp](https://web.archive.org/web/20140626103826/http://www.rubyclr.com/) - A Ruby to CIL Compiler.
+
 ### r.i.p.
+
 Description and link unavailable:
 * [msakai's VM]()
 * [asruby]()
