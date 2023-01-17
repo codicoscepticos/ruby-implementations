@@ -14,6 +14,7 @@ Ruby implementations:
 * [Ruby-LLVM](https://github.com/ruby-llvm/ruby-llvm) - Ruby-LLVM is a Ruby language binding to the LLVM compiler infrastructure library.
 * [erruby](https://github.com/johnlinvc/erruby) - ruby on erlang.
 * [Artichoke](https://www.artichokeruby.org/) - Bundle Ruby applications into a single WASM binary, Ruby implementation in Rust.
+* [Natalie](https://github.com/natalie-lang/natalie) - Ruby to C++ compiler.
 
 Ruby-inspired languages:
 
